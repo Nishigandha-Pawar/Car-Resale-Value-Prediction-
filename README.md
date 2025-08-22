@@ -1,4 +1,3 @@
-# Car-Resale-Value-Prediction-
 # 🚗 Car Resale Value Prediction  
 
 
